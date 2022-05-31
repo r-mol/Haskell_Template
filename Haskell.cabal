@@ -6,9 +6,9 @@ cabal-version: 1.24
 
 name:           Haskell
 version:        0.1.0
-description:    Please see the README on GitHub at <https://github.com/fizruk/haskell-codeworld-template#readme>
-homepage:       https://github.com/fizruk/haskell-codeworld-template#readme
-bug-reports:    https://github.com/fizruk/haskell-codeworld-template/issues
+description:    Please see the README on GitHub at <https://github.com/r-mol/Haskell_Template#readme>
+homepage:       https://github.com/r-mol/Haskell_Template#readme
+bug-reports:    https://github.com/r-mol/Haskell_Template/issues
 author:         Roman Molochkov
 maintainer:     molochkov2017@gmail.com
 copyright:      2022 Roman Molochkov
@@ -21,7 +21,7 @@ extra-source-files:
 
 source-repository head
   type: git
-  location: https://github.com/fizruk/haskell-codeworld-template
+  location: https://github.com/r-mol/Haskell_Template
 
 custom-setup
   setup-depends:
